@@ -98,11 +98,3 @@ http://localhost:8080/swagger-ui.html
 ```
 
 Lá você poderá visualizar os endpoints disponíveis e testar a API diretamente.
-
-## Contribuições
-
-Se você deseja contribuir para este projeto, faça um fork deste repositório, crie uma branch para a sua funcionalidade e submeta um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
